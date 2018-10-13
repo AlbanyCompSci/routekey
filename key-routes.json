@@ -1,0 +1,12 @@
+{
+    "key-routes": [
+        {
+            "key": "slug",
+            "route": "http://example.com/"
+        },
+        {
+            "key": "slug2",
+            "route": "http://google.com/"
+        }
+    ]
+}
