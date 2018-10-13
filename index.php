@@ -14,6 +14,10 @@
                 exit();
             }
         }
+        echo "No Match";
+    }
+    else {
+        echo "No Slug";
     }
 ?>
 <!DOCTYPE html>
